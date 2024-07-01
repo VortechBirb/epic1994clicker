@@ -1,8 +1,17 @@
+![epic](https://github.com/VortechBirb/epic1994clicker/assets/100373181/e7317382-25ae-4354-9211-0f17c57e90ea)
 # epic1994clicker
 
 Fast lightweight autoclicker written in C++ for Windows 10
 
+![userinterface](https://github.com/VortechBirb/epic1994clicker/assets/100373181/a0c05b2c-3df0-4a5f-9046-8f48bd23600d)
+
 Made in Visual Studio Code and compiled with MinGW
+
+<img src="https://github.com/VortechBirb/epic1994clicker/assets/100373181/84f3d41a-7a3c-469d-84f7-da8016a067d7" width="515"/>
+
+###### (on a website that doesn't use your GPU)
+
+<img src="https://github.com/VortechBirb/epic1994clicker/assets/100373181/47058ab6-6d83-41e9-a2a0-1303b6551bff" width="515"/>
 
 ## Features:
  - Set trigger and output to most win32 virtual keycodes
@@ -12,7 +21,7 @@ Made in Visual Studio Code and compiled with MinGW
  - Uniformly randomize click speed
  - Stop after X amount of clicks
  - Absolutely zero error handling
- - < 0.1% CPU and negligible RAM usage
+ - < 0.2% CPU and negligible RAM usage
  - Accurate click speed (100 ms = 10 cps instead of 8.2)
 
 ## Behavior:
